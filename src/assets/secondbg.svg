@@ -1,0 +1,336 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2721" height="989.868" viewBox="0 0 2721 989.868">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#55e7b6"/>
+      <stop offset="0.498" stop-color="#42c8ab"/>
+      <stop offset="1" stop-color="#0d7377" stop-opacity="0.82"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_45" data-name="Groupe 45" transform="translate(219.585 318.868)">
+    <path id="graphic_design_background" data-name="graphic+design+background" d="M2127,2232.694s157.385,143.639,570.37,102.815c514.867-40.824,929.063,173.409,1215.185,166.319,273.922-6.788,455.753-218.574,455.753-218.574V1512.132H2127Z" transform="translate(-2111 -1831)" fill="url(#linear-gradient)"/>
+    <g id="Groupe_34" data-name="Groupe 34" transform="translate(-220 -107)">
+      <g id="Ellipse_91" data-name="Ellipse 91" transform="translate(0.415 70)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="14.5" rx="14" ry="14.5" stroke="none"/>
+        <ellipse cx="14" cy="14.5" rx="12.5" ry="13" fill="none"/>
+      </g>
+      <g id="Ellipse_92" data-name="Ellipse 92" transform="translate(0.415 619)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="14" cy="14" r="14" stroke="none"/>
+        <circle cx="14" cy="14" r="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_93" data-name="Ellipse 93" transform="translate(563.415 459)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14.5" cy="13.5" rx="14.5" ry="13.5" stroke="none"/>
+        <ellipse cx="14.5" cy="13.5" rx="13" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_94" data-name="Ellipse 94" transform="translate(1044.415 70)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="14.5" rx="14" ry="14.5" stroke="none"/>
+        <ellipse cx="14" cy="14.5" rx="12.5" ry="13" fill="none"/>
+      </g>
+      <g id="Ellipse_95" data-name="Ellipse 95" transform="translate(1607.415 459)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="13.5" rx="14" ry="13.5" stroke="none"/>
+        <ellipse cx="14" cy="13.5" rx="12.5" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_96" data-name="Ellipse 96" transform="translate(1937.415 383)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14.5" cy="13.5" rx="14.5" ry="13.5" stroke="none"/>
+        <ellipse cx="14.5" cy="13.5" rx="13" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_97" data-name="Ellipse 97" transform="translate(1921.415 188)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="14" cy="14" r="14" stroke="none"/>
+        <circle cx="14" cy="14" r="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_98" data-name="Ellipse 98" transform="translate(2086.415 70)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+        <circle cx="14.5" cy="14.5" r="13" fill="none"/>
+      </g>
+      <g id="Ellipse_99" data-name="Ellipse 99" transform="translate(2654.415 459)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Polygone_3" data-name="Polygone 3" transform="translate(2549.415 1)" fill="none">
+        <path d="M18.5,0,37,33H0Z" stroke="none"/>
+        <path d="M 18.5 6.134897232055664 L 5.121078491210938 30 L 31.87892150878906 30 L 18.5 6.134897232055664 M 18.5 0 L 37 33 L 0 33 L 18.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_4" data-name="Polygone 4" transform="translate(2501.415 318)" fill="none">
+        <path d="M19,0,38,32H0Z" stroke="none"/>
+        <path d="M 19 5.876142501831055 L 5.270210266113281 29 L 32.72978973388672 29 L 19 5.876142501831055 M 19 0 L 38 32 L 0 32 L 19 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_5" data-name="Polygone 5" transform="translate(1668.415 200)" fill="none">
+        <path d="M19,0,38,33H0Z" stroke="none"/>
+        <path d="M 19 6.012453079223633 L 5.188987731933594 30 L 32.81101226806641 30 L 19 6.012453079223633 M 19 0 L 38 33 L 0 33 L 19 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_6" data-name="Polygone 6" transform="translate(1487.415 1)" fill="none">
+        <path d="M19,0,38,33H0Z" stroke="none"/>
+        <path d="M 19 6.012453079223633 L 5.188987731933594 30 L 32.81101226806641 30 L 19 6.012453079223633 M 19 0 L 38 33 L 0 33 L 19 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_7" data-name="Polygone 7" transform="translate(1487.415 549)" fill="none">
+        <path d="M19,0,38,33H0Z" stroke="none"/>
+        <path d="M 19 6.012453079223633 L 5.188987731933594 30 L 32.81101226806641 30 L 19 6.012453079223633 M 19 0 L 38 33 L 0 33 L 19 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_8" data-name="Polygone 8" transform="translate(344.415 316)" fill="none">
+        <path d="M18,0,36,33H0Z" stroke="none"/>
+        <path d="M 18 6.264991760253906 L 5.053632736206055 30 L 30.94636917114258 30 L 18 6.264991760253906 M 18 0 L 36 33 L 0 33 L 18 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_9" data-name="Polygone 9" transform="translate(391.415 550)" fill="none">
+        <path d="M18.5,0,37,33H0Z" stroke="none"/>
+        <path d="M 18.5 6.134897232055664 L 5.121078491210938 30 L 31.87892150878906 30 L 18.5 6.134897232055664 M 18.5 0 L 37 33 L 0 33 L 18.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_10" data-name="Polygone 10" transform="translate(391.415)" fill="none">
+        <path d="M18.5,0,37,33H0Z" stroke="none"/>
+        <path d="M 18.5 6.134897232055664 L 5.121078491210938 30 L 31.87892150878906 30 L 18.5 6.134897232055664 M 18.5 0 L 37 33 L 0 33 L 18.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_11" data-name="Polygone 11" transform="translate(78.415 33)" fill="none">
+        <path d="M13.5,0,27,22H0Z" stroke="none"/>
+        <path d="M 13.5 5.735963821411133 L 5.36070442199707 19 L 21.6392936706543 19 L 13.5 5.735963821411133 M 13.5 0 L 27 22 L 0 22 L 13.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_12" data-name="Polygone 12" transform="translate(41.415 284)" fill="none">
+        <path d="M13.5,0,27,22H0Z" stroke="none"/>
+        <path d="M 13.5 5.735963821411133 L 5.36070442199707 19 L 21.6392936706543 19 L 13.5 5.735963821411133 M 13.5 0 L 27 22 L 0 22 L 13.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_13" data-name="Polygone 13" transform="translate(208.415 193)" fill="none">
+        <path d="M13,0,26,23H0Z" stroke="none"/>
+        <path d="M 13 6.096853256225586 L 5.141698837280273 20 L 20.85830116271973 20 L 13 6.096853256225586 M 13 0 L 26 23 L 0 23 L 13 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_14" data-name="Polygone 14" transform="translate(78.415 473)" fill="none">
+        <path d="M13.5,0,27,22H0Z" stroke="none"/>
+        <path d="M 13.5 5.735963821411133 L 5.36070442199707 19 L 21.6392936706543 19 L 13.5 5.735963821411133 M 13.5 0 L 27 22 L 0 22 L 13.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_15" data-name="Polygone 15" transform="translate(607.415 310)" fill="none">
+        <path d="M14,0,28,24H0Z" stroke="none"/>
+        <path d="M 14 5.953907012939453 L 5.223112106323242 21 L 22.77688789367676 21 L 14 5.953907012939453 M 14 0 L 28 24 L 0 24 L 14 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_16" data-name="Polygone 16" transform="translate(883.415 288)" fill="none">
+        <path d="M13.5,0,27,22H0Z" stroke="none"/>
+        <path d="M 13.5 5.735963821411133 L 5.36070442199707 19 L 21.6392936706543 19 L 13.5 5.735963821411133 M 13.5 0 L 27 22 L 0 22 L 13.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_17" data-name="Polygone 17" transform="translate(924.415 473)" fill="none">
+        <path d="M13,0,26,22H0Z" stroke="none"/>
+        <path d="M 13 5.897048950195313 L 5.257347106933594 19 L 20.74265289306641 19 L 13 5.897048950195313 M 13 0 L 26 22 L 0 22 L 13 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_18" data-name="Polygone 18" transform="translate(1067.415 190)" fill="none">
+        <path d="M13.5,0,27,24H0Z" stroke="none"/>
+        <path d="M 13.5 6.11918830871582 L 5.129543304443359 21 L 21.87045669555664 21 L 13.5 6.11918830871582 M 13.5 0 L 27 24 L 0 24 L 13.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_19" data-name="Polygone 19" transform="translate(924.415 33)" fill="none">
+        <path d="M13,0,26,22H0Z" stroke="none"/>
+        <path d="M 13 5.897048950195313 L 5.257347106933594 19 L 20.74265289306641 19 L 13 5.897048950195313 M 13 0 L 26 22 L 0 22 L 13 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_20" data-name="Polygone 20" transform="translate(1335.415 416)" fill="none">
+        <path d="M13,0,26,23H0Z" stroke="none"/>
+        <path d="M 13 6.096853256225586 L 5.141698837280273 20 L 20.85830116271973 20 L 13 6.096853256225586 M 13 0 L 26 23 L 0 23 L 13 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_21" data-name="Polygone 21" transform="translate(1758.415 34)" fill="none">
+        <path d="M14,0,28,22H0Z" stroke="none"/>
+        <path d="M 14 5.587884902954102 L 5.465017318725586 19 L 22.53498268127441 19 L 14 5.587884902954102 M 14 0 L 28 22 L 0 22 L 14 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_22" data-name="Polygone 22" transform="translate(1381.415 135)" fill="none">
+        <path d="M13,0,26,24H0Z" stroke="none"/>
+        <path d="M 13 6.298782348632813 L 5.036840438842773 21 L 20.96315956115723 21 L 13 6.298782348632813 M 13 0 L 26 24 L 0 24 L 13 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_23" data-name="Polygone 23" transform="translate(1758.415 473)" fill="none">
+        <path d="M14,0,28,22H0Z" stroke="none"/>
+        <path d="M 14 5.587884902954102 L 5.465017318725586 19 L 22.53498268127441 19 L 14 5.587884902954102 M 14 0 L 28 22 L 0 22 L 14 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_24" data-name="Polygone 24" transform="translate(2322.415 416)" fill="none">
+        <path d="M14,0,28,23H0Z" stroke="none"/>
+        <path d="M 14 5.769824981689453 L 5.338153839111328 20 L 22.66184616088867 20 L 14 5.769824981689453 M 14 0 L 28 23 L 0 23 L 14 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_25" data-name="Polygone 25" transform="translate(2602.415 475)" fill="none">
+        <path d="M13.5,0,27,23H0Z" stroke="none"/>
+        <path d="M 13.5 5.926507949829102 L 5.239471435546875 20 L 21.76052856445313 20 L 13.5 5.926507949829102 M 13.5 0 L 27 23 L 0 23 L 13.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_26" data-name="Polygone 26" transform="translate(2365.415 131)" fill="none">
+        <path d="M13,0,26,24H0Z" stroke="none"/>
+        <path d="M 13 6.298782348632813 L 5.036840438842773 21 L 20.96315956115723 21 L 13 6.298782348632813 M 13 0 L 26 24 L 0 24 L 13 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_27" data-name="Polygone 27" transform="translate(2567.415 288)" fill="none">
+        <path d="M14,0,28,22H0Z" stroke="none"/>
+        <path d="M 14 5.587884902954102 L 5.465017318725586 19 L 22.53498268127441 19 L 14 5.587884902954102 M 14 0 L 28 22 L 0 22 L 14 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_28" data-name="Polygone 28" transform="translate(2602.415 34)" fill="none">
+        <path d="M13.5,0,27,22H0Z" stroke="none"/>
+        <path d="M 13.5 5.735963821411133 L 5.36070442199707 19 L 21.6392936706543 19 L 13.5 5.735963821411133 M 13.5 0 L 27 22 L 0 22 L 13.5 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_8" data-name="Groupe 8" transform="translate(187.192 219)">
+        <rect id="Rectangle_20" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.223)" fill="#0d7377"/>
+        <rect id="Rectangle_21" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.358) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_9" data-name="Groupe 9" transform="translate(1.917 431)">
+        <rect id="Rectangle_20-2" data-name="Rectangle 20" width="5" height="28" rx="2" transform="translate(11.498 0)" fill="#0d7377"/>
+        <rect id="Rectangle_21-2" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.744) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_10" data-name="Groupe 10" transform="translate(820.339 99)">
+        <rect id="Rectangle_20-3" data-name="Rectangle 20" width="6" height="26" rx="2" transform="translate(10.076)" fill="#0d7377"/>
+        <rect id="Rectangle_21-3" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.249) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_11" data-name="Groupe 11" transform="translate(1046.639 431)">
+        <rect id="Rectangle_20-4" data-name="Rectangle 20" width="5" height="28" rx="2" transform="translate(10.776 0)" fill="#0d7377"/>
+        <rect id="Rectangle_21-4" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.744) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_12" data-name="Groupe 12" transform="translate(1256.982 220)">
+        <rect id="Rectangle_20-5" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(10.433)" fill="#0d7377"/>
+        <rect id="Rectangle_21-5" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.636) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_13" data-name="Groupe 13" transform="translate(1860.449 99)">
+        <rect id="Rectangle_20-6" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(10.966)" fill="#0d7377"/>
+        <rect id="Rectangle_21-6" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.249) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_14" data-name="Groupe 14" transform="translate(2089.652 431)">
+        <rect id="Rectangle_20-7" data-name="Rectangle 20" width="5" height="28" rx="2" transform="translate(11.763 0)" fill="#0d7377"/>
+        <rect id="Rectangle_21-7" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.744) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_15" data-name="Groupe 15" transform="translate(2345.027 220)">
+        <rect id="Rectangle_20-8" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.388)" fill="#0d7377"/>
+        <rect id="Rectangle_21-8" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.636) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_16" data-name="Groupe 16" transform="translate(2659.356 214)">
+        <g id="Groupe_17" data-name="Groupe 17" transform="translate(0 0)">
+          <rect id="Rectangle_20-9" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.059)" fill="#0d7377"/>
+          <rect id="Rectangle_21-9" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.247) rotate(90)" fill="#0d7377"/>
+        </g>
+        <g id="Groupe_18" data-name="Groupe 18" transform="translate(0 0)">
+          <rect id="Rectangle_20-10" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.059)" fill="#0d7377"/>
+          <rect id="Rectangle_21-10" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.247) rotate(90)" fill="#0d7377"/>
+        </g>
+      </g>
+      <g id="Groupe_19" data-name="Groupe 19" transform="translate(2050.484 105)">
+        <rect id="Rectangle_20-11" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(10.931)" fill="#0d7377"/>
+        <rect id="Rectangle_21-11" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.637) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_20" data-name="Groupe 20" transform="translate(2290.083 376)">
+        <rect id="Rectangle_20-12" data-name="Rectangle 20" width="5" height="28" rx="2" transform="translate(11.332 0)" fill="#0d7377"/>
+        <rect id="Rectangle_21-12" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.801) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_21" data-name="Groupe 21" transform="translate(2105.608 320)">
+        <rect id="Rectangle_20-13" data-name="Rectangle 20" width="5" height="28" rx="2" transform="translate(11.807)" fill="#0d7377"/>
+        <rect id="Rectangle_21-13" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.579) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_22" data-name="Groupe 22" transform="translate(1922.828 515)">
+        <rect id="Rectangle_20-14" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.587)" fill="#0d7377"/>
+        <rect id="Rectangle_21-14" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.799) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_23" data-name="Groupe 23" transform="translate(1711.033 214)">
+        <rect id="Rectangle_20-15" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(10.382)" fill="#0d7377"/>
+        <rect id="Rectangle_21-15" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.247) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_24" data-name="Groupe 24" transform="translate(982.81 515)">
+        <rect id="Rectangle_20-16" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.605)" fill="#0d7377"/>
+        <rect id="Rectangle_21-16" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.799) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_25" data-name="Groupe 25" transform="translate(778.27 214)">
+        <rect id="Rectangle_20-17" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.145)" fill="#0d7377"/>
+        <rect id="Rectangle_21-17" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.247) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Ellipse_100" data-name="Ellipse 100" transform="translate(548.415 539)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="14.5" rx="14" ry="14.5" stroke="none"/>
+        <ellipse cx="14" cy="14.5" rx="12.5" ry="13" fill="none"/>
+      </g>
+      <g id="Ellipse_101" data-name="Ellipse 101" transform="translate(563.415 525)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14.5" cy="14" rx="14.5" ry="14" stroke="none"/>
+        <ellipse cx="14.5" cy="14" rx="13" ry="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_102" data-name="Ellipse 102" transform="translate(391.415 334)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="13.5" rx="14" ry="13.5" stroke="none"/>
+        <ellipse cx="14" cy="13.5" rx="12.5" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_103" data-name="Ellipse 103" transform="translate(160.415 394)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="13.5" rx="14" ry="13.5" stroke="none"/>
+        <ellipse cx="14" cy="13.5" rx="12.5" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_104" data-name="Ellipse 104" transform="translate(563.415 84)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+        <circle cx="14.5" cy="14.5" r="13" fill="none"/>
+      </g>
+      <g id="Ellipse_105" data-name="Ellipse 105" transform="translate(845.415 470)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="14" cy="14" r="14" stroke="none"/>
+        <circle cx="14" cy="14" r="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_106" data-name="Ellipse 106" transform="translate(1012.415 394)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="13.5" rx="14" ry="13.5" stroke="none"/>
+        <ellipse cx="14" cy="13.5" rx="12.5" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_107" data-name="Ellipse 107" transform="translate(1397.415 521)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="13.5" cy="14" rx="13.5" ry="14" stroke="none"/>
+        <ellipse cx="13.5" cy="14" rx="12" ry="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_108" data-name="Ellipse 108" transform="translate(1397.415 79)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="13.5" cy="14.5" rx="13.5" ry="14.5" stroke="none"/>
+        <ellipse cx="13.5" cy="14.5" rx="12" ry="13" fill="none"/>
+      </g>
+      <g id="Ellipse_109" data-name="Ellipse 109" transform="translate(1784.415 470)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="13.5" cy="14" rx="13.5" ry="14" stroke="none"/>
+        <ellipse cx="13.5" cy="14" rx="12" ry="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_110" data-name="Ellipse 110" transform="translate(1848.415 396)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="14" cy="14" r="14" stroke="none"/>
+        <circle cx="14" cy="14" r="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_111" data-name="Ellipse 111" transform="translate(2285.415 84)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="14.5" rx="14" ry="14.5" stroke="none"/>
+        <ellipse cx="14" cy="14.5" rx="12.5" ry="13" fill="none"/>
+      </g>
+      <g id="Ellipse_112" data-name="Ellipse 112" transform="translate(2686.415 396)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14.5" cy="14" rx="14.5" ry="14" stroke="none"/>
+        <ellipse cx="14.5" cy="14" rx="13" ry="12.5" fill="none"/>
+      </g>
+      <g id="Ellipse_113" data-name="Ellipse 113" transform="translate(2285.415 523)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="13.5" rx="14" ry="13.5" stroke="none"/>
+        <ellipse cx="14" cy="13.5" rx="12.5" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_114" data-name="Ellipse 114" transform="translate(1486.415 538)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+        <circle cx="14.5" cy="14.5" r="13" fill="none"/>
+      </g>
+      <g id="Ellipse_115" data-name="Ellipse 115" transform="translate(894.415 383)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14.5" cy="13.5" rx="14.5" ry="13.5" stroke="none"/>
+        <ellipse cx="14.5" cy="13.5" rx="13" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_116" data-name="Ellipse 116" transform="translate(981.415 190)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14" cy="14.5" rx="14" ry="14.5" stroke="none"/>
+        <ellipse cx="14" cy="14.5" rx="12.5" ry="13" fill="none"/>
+      </g>
+      <g id="Ellipse_117" data-name="Ellipse 117" transform="translate(1279.415 334)" fill="none" stroke="#0d7377" stroke-width="3">
+        <ellipse cx="14.5" cy="13.5" rx="14.5" ry="13.5" stroke="none"/>
+        <ellipse cx="14.5" cy="13.5" rx="13" ry="12" fill="none"/>
+      </g>
+      <g id="Ellipse_118" data-name="Ellipse 118" transform="translate(2114.415 334)" fill="none" stroke="#0d7377" stroke-width="3">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="10.5" fill="none"/>
+      </g>
+      <g id="Groupe_26" data-name="Groupe 26" transform="translate(1564.519 203)">
+        <rect id="Rectangle_20-18" data-name="Rectangle 20" width="5" height="27" rx="2" transform="translate(10.896)" fill="#0d7377"/>
+        <rect id="Rectangle_21-18" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.025) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_27" data-name="Groupe 27" transform="translate(1219.266 549)">
+        <rect id="Rectangle_20-19" data-name="Rectangle 20" width="7" height="28" rx="2" transform="translate(10.149)" fill="#0d7377"/>
+        <rect id="Rectangle_21-19" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.298) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_28" data-name="Groupe 28" transform="translate(2437.026 201)">
+        <rect id="Rectangle_20-20" data-name="Rectangle 20" width="5" height="28" rx="2" transform="translate(10.389)" fill="#0d7377"/>
+        <rect id="Rectangle_21-20" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.747) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_29" data-name="Groupe 29" transform="translate(1217.815 104)">
+        <rect id="Rectangle_20-21" data-name="Rectangle 20" width="6" height="26" rx="2" transform="translate(10.6)" fill="#0d7377"/>
+        <rect id="Rectangle_21-21" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.36) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_30" data-name="Groupe 30" transform="translate(1171.394 324)">
+        <rect id="Rectangle_20-22" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.021)" fill="#0d7377"/>
+        <rect id="Rectangle_21-22" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.134) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_31" data-name="Groupe 31" transform="translate(344.357 104)">
+        <rect id="Rectangle_20-23" data-name="Rectangle 20" width="5" height="26" rx="2" transform="translate(11.058)" fill="#0d7377"/>
+        <rect id="Rectangle_21-23" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.36) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_32" data-name="Groupe 32" transform="translate(344.357 545)">
+        <rect id="Rectangle_20-24" data-name="Rectangle 20" width="5" height="28" rx="2" transform="translate(11.058)" fill="#0d7377"/>
+        <rect id="Rectangle_21-24" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 11.465) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Groupe_33" data-name="Groupe 33" transform="translate(400.578 248)">
+        <rect id="Rectangle_20-25" data-name="Rectangle 20" width="5" height="27" rx="2" transform="translate(10.837)" fill="#0d7377"/>
+        <rect id="Rectangle_21-25" data-name="Rectangle 21" width="5.111" height="26.833" rx="2" transform="translate(26.833 10.747) rotate(90)" fill="#0d7377"/>
+      </g>
+      <g id="Polygone_29" data-name="Polygone 29" transform="translate(623.415 200)" fill="none">
+        <path d="M19,0,38,33H0Z" stroke="none"/>
+        <path d="M 19 6.012453079223633 L 5.188987731933594 30 L 32.81101226806641 30 L 19 6.012453079223633 M 19 0 L 38 33 L 0 33 L 19 0 Z" stroke="none" fill="#0d7377"/>
+      </g>
+    </g>
+  </g>
+</svg>
