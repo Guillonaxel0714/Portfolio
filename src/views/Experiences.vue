@@ -1,7 +1,6 @@
 <template>
   <div class="experiences">
     <NavBar />
-    <h1>Mes expériences</h1>
   </div>
 </template>
 

@@ -1,20 +1,20 @@
 <template>
-    <div class="home">
-        <NavBar />
-        <section class="home_section">
-            <div class="home_gauche">
-                <h2>Bonjour !</h2>
-                <Titre titre="Je suis Axel Guillon" />
-                <div class="underline"></div>
-                <p class="home_txt">Etudiant à l'IIM | Paris la Défense </p>
-                <p class="home_txt">Développeur web - front-end</p>
-                <Bouton class="bouton" buttontxt="Découvrir mes projets" />
-            </div>
-            <div class="home_droite">
-                <div class="content_img"></div>
-            </div>
-        </section>
-    </div>
+  <div class="home">
+    <NavBar />
+    <section class="home_section">
+      <div class="home_gauche">
+        <h2>Bonjour !</h2>
+        <Titre titre="Je suis Axel Guillon" />
+        <div class="underline"></div>
+        <p class="home_txt">Etudiant à l'IIM | Paris la Défense </p>
+        <p class="home_txt">Développeur web - front-end</p>
+        <Bouton class="bouton" buttontxt="Découvrir mes projets" />
+      </div>
+      <div class="home_droite">
+        <div class="content_img"></div>
+      </div>
+    </section>
+  </div>
 </template>
 
 <script>
@@ -36,6 +36,7 @@ export default {
 
 .home{
   height: 100vh;
+  width: 100vw;
   background-image: url('../assets/bgformes.svg');
   background-position: center;
   background-repeat: no-repeat;
@@ -45,8 +46,8 @@ export default {
 }
 
 .home_section{
+  width: 100%;
   display: flex;
-  flex-flow: row wrap;
   justify-content: space-between;
   padding: 8% 0;
 }
@@ -91,6 +92,38 @@ export default {
   background-size: cover;
   background-position-x: 35%;
   margin: 0 auto;
+}
+
+@media (max-width: 1080px){
+  .home{
+    background-image: none;
+    background-color: #55E7B6;
+    height: auto;
+  }
+  .home_section{
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .home_gauche{
+    width: 100%;
+    text-align: center;
+    padding: 10px 10px 100px;
+  }
+  .underline{
+  width: 250px;
+  height: 10px;
+  border-top: 5px solid white;
+  padding-bottom: 50px;
+  margin: 0 auto;
+  }
+  .home_droite{
+    width: 100%;
+  }
+  .bouton{
+    margin: 0 auto;
+}
 }
 
 
