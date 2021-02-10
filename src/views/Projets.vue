@@ -2,15 +2,6 @@
   <div class="projets">
     <NavBar />
   </div>
-  <section class="tout">
-    <section class="jsp">
-      <div class="blue"></div>
-      <div class="red"></div>
-    </section>
-    <section>
-      <div class="bite"></div>
-    </section>
-  </section>
 </template>
 
 <script>
@@ -57,7 +48,7 @@ background-color: black;
   border-radius: 0 25px 25px 0;
 }
 
-.bite{
+.test{
   width: 60px;
   height: 550px;
   background-color: pink

@@ -23,12 +23,12 @@ import NavBar from '../components/NavBar';
 import Titre from '../components/Titre'
 
 export default {
-    name: 'Home',
-    components:{
-        Bouton,
-        NavBar,
-        Titre
-    }
+  name: 'Home',
+  components:{
+    Bouton,
+    NavBar,
+    Titre
+  }
 }
 </script>
 
@@ -96,7 +96,7 @@ export default {
 
 @media (max-width: 1080px){
   .home{
-    background-image: none;
+    background-image: url('../assets/secondbg.svg');
     background-color: #55E7B6;
     height: auto;
   }
@@ -109,7 +109,7 @@ export default {
   .home_gauche{
     width: 100%;
     text-align: center;
-    padding: 10px 10px 100px;
+    padding: 50px 10px 100px;
   }
   .underline{
   width: 250px;
@@ -123,7 +123,14 @@ export default {
   }
   .bouton{
     margin: 0 auto;
+  }
 }
+
+@media (max-width: 650px){
+  .content_img{
+    height: 300px;
+    width: 300px;
+  }
 }
 
 

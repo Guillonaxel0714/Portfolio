@@ -12,12 +12,19 @@
     </div>
   </div>
 
-  <about-list 
-    v-for="(information, index) in apropos.informations" 
-    :key="index"
-    :information="information">
-  </about-list>
+  <div>
+    <about-list 
+      v-for="(information, index) in apropos.informations" 
+      :key="index"
+      :information="information">
+    </about-list>
+  </div>
 
+  <DoubleTitle />
+
+  <div class="test_vide">
+
+  </div>
 
 </template>
 
@@ -25,6 +32,7 @@
 <script>
 import NavBar from '../components/NavBar'
 import Titre from '../components/Titre'
+import DoubleTitle from '../components/DoubleTitle'
 import Bouton from '../components/Bouton'
 import AboutList from '../components/AboutList'
 
@@ -37,7 +45,8 @@ export default {
     NavBar,
     Titre,
     Bouton,
-    AboutList
+    AboutList,
+    DoubleTitle
   },
   data(){
     return{
@@ -48,6 +57,10 @@ export default {
 </script>
 
 <style scoped>
+
+.test_vide{
+  height: 100vh;
+}
 
 .about{
   height: 100vh;
@@ -63,7 +76,7 @@ export default {
   text-align: center;
   width: 60%;
   margin: 0 auto;
-  padding: 25px 0;
+  padding: 75px 0;
 }
 
 .about_description{

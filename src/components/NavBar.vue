@@ -1,5 +1,5 @@
 <template>
-    <header>
+    <!-- <header>
         <router-link class="router_link" to="/"><p>Axel Guillon</p></router-link>
         <nav>
             <ul class="nav_links">
@@ -9,26 +9,31 @@
                 <router-link class="router_link" to="/Formations"><li><a href="">Formations</a></li></router-link>
             </ul>
         </nav>
+    </header> -->
+    <header>
+        <nav>
+            <router-link class="router_link" to="/"><label class="logo">Axel Guillon</label></router-link>
+            <ul class="nav_links">
+                <li><router-link class="router_link" to="/About"><a href="">A propos</a></router-link></li>
+                <li><router-link class="router_link" to="/Projets"><a href="">Projets</a></router-link></li>
+                <li><router-link class="router_link" to="/Experiences"><a href="">Experiences</a></router-link></li>
+                <li><router-link class="router_link" to="/Formations"><a href="">Formations</a></router-link></li>
+            </ul>
+            <label id="icon">
+                <img src="../assets/menu.svg" alt="icon menu">
+            </label>
+        </nav>
     </header>
-
-    <!-- <nav>
-        <label class="logo">Axel Guillon</label>
-        <ul class="nav_links">
-            <li><a href="#">A propos</a></li>
-            <li><a href="#">Projets</a></li>
-            <li><a href="#">Experiences</a></li>
-            <li><a href="#">Formations</a></li>
-        </ul>
-        <label id="icon" @click="openMobileNav">
-            <img src="../assets/menu.svg" alt="icon menu">
-        </label>
-    </nav> -->
-
 </template>
 
 <script>
 export default {
     name: 'NavBar',
+    data(){
+        return{
+            burger: false
+        }
+    }
 }
 </script>
 
@@ -37,7 +42,7 @@ export default {
 
 <style scoped>
 
-p{
+/* p{
     font-size: 32px;
     font-weight: bold;
     color: black;
@@ -69,14 +74,12 @@ header{
 
 .router_link{
     text-decoration: none;
-} 
+}  */
 
 
 
 
-
-
-/* nav{
+nav{
     height: 80px;
     width: 100%;
 
@@ -88,6 +91,7 @@ label.logo{
     color: black;
     padding: 0 50px;
     line-height: 80px;
+    cursor: pointer;
 }
 
 nav ul{
@@ -97,14 +101,13 @@ nav ul{
 
 nav li{
     display: inline-block;
-    margin: 0 8px;
     line-height: 80px;
 }
 
 nav a{
     color: black;
     font-size: 30px;
-    padding: 7px 30px;
+    padding: 7px 15px;
 }
 
 nav #icon{
@@ -119,13 +122,17 @@ label img{
     width: 30px;
 }
 
-@media (max-width: 1131px){
+.router_link{
+    text-decoration: none;
+}
+
+@media (max-width: 1300px){
     nav ul{
         margin-right: 20px;
     }
     nav a{
         font-size: 26px;
-        padding: 7px 15px;
+        padding: 7px 13px;
     } 
 }
 
@@ -139,11 +146,11 @@ label img{
     }
     nav a{
         font-size: 26px;
-        padding: 7px 15px;
+        padding: 7px 12px;
     }
 }
 
-@media (max-width: 917px){
+@media (max-width: 950px){
     label.logo{
         font-size: 28px;
         padding-left: 30px;
@@ -158,6 +165,13 @@ label img{
 }
 
 @media (max-width: 816px){
+    nav a{
+        font-size: 26px;
+        padding: 7px 7px;
+    }
+}
+
+@media (max-width: 800px){
     nav #icon{
         display: block;
     }
@@ -182,6 +196,6 @@ label img{
     nav ul.show{
         left: 0;
     }
-} */
+}
 
 </style>
